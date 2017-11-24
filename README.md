@@ -1,5 +1,7 @@
 # Node.js Cloudant Sample
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabrielmancini/test-app-node-cloudant.svg)](https://greenkeeper.io/)
+
 This application demonstrates how to use the Bluemix Cloudant NoSQL DB service.  It helps users organize their favorite files. The UI talks to a RESTful Express CRUD backend API.
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/nodejs-cloudant)
